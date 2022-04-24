@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "target": "es2018",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
