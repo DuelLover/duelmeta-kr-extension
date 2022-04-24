@@ -51,7 +51,7 @@
 
 만약 [nvm](https://github.com/nvm-sh/nvm)을 사용하신다면, 간단하게 ```nvm use```를 입력하여 프로젝트에 맞는 버전의 node를 사용할 수 있습니다.
 
-다음 방법을 통해 동작을 테스트 하며 .
+다음 방법을 통해 동작을 테스트 합니다.
 
 ```bash
 npm install
