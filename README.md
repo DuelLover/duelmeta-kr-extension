@@ -12,7 +12,7 @@
 
 현재는 공식 스토어에 이 프로그램을 올린 상황이 아니므로 다음 설치 방법을 사용합니다.
 
-1. [압축 파일](https://github.com/DuelLover/duelmeta-kr-extension/releases/download/0.1.0/md-translator.zip)를 다운로드 받고, 압축을 풉니다.
+1. [압축 파일](https://github.com/DuelLover/duelmeta-kr-extension/releases/download/0.1.0/md_translator.zip)를 다운로드 받고, 압축을 풉니다.
 
 2. Chrome을 실행합니다.
 
