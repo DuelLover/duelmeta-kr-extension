@@ -17,8 +17,19 @@ async function translateTippy(tipNode: Element) {
     if (title) {
       const target = dataDict[title];
       if (target) {
-        descElem.innerHTML = target["lore"];
-        titleElem.innerHTML = target["name"];
+        const lineSplitted = target["lore"].split(/<br \/>|<br>/);
+
+        descElem.textContent = "";
+        for (let i = 0 ; i < lineSplitted.length ; ++i) {
+          const newTextNode = document.createTextNode(lineSplitted[i]);
+          descElem.appendChild(newTextNode);
+          if (i !== lineSplitted.length - 1) {
+            const newBr = document.createElement('br');
+            descElem.appendChild(newBr)
+          }
+        }
+
+        titleElem.textContent = target["name"];
       }
     }
   }
