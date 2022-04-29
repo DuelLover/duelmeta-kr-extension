@@ -1,6 +1,6 @@
 {
   "name": "duelmeta-kr-extension",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Master Duel Meta Card Translation Chrome Extension",
   "private": true,
   "scripts": {
