@@ -12,19 +12,7 @@
 
 ## 설치
 
-현재는 공식 스토어에 이 프로그램을 올린 상황이 아니므로 다음 설치 방법을 사용합니다.
-
-1. [압축 파일](https://github.com/DuelLover/duelmeta-kr-extension/releases/download/0.1.0/md_translator.zip)를 다운로드 받고, 압축을 풉니다.
-
-2. Chrome을 실행합니다.
-
-3. chrome://extensions에 들어갑니다.
-
-4. 우측 상단의 개발자 모드 스위치를 눌러 ON으로 변경합니다.
-
-5. 좌측 상단에 나타난 "압축해제된 확장 프로그램을 로드합니다." 버튼을 클릭합니다.
-
-6. 압축을 푼 폴더를 선택하면 동작하게 됩니다.
+**[공식 스토어](https://chrome.google.com/webstore/detail/%EB%93%80%EC%96%BC-%EB%A9%94%ED%83%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B9%B4%EB%93%9C-%ED%95%9C%EA%B8%80%ED%99%94-%ED%99%95%EC%9E%A5/ihogeejpopafijikbklmhmlpphbedmif)**
 
 ## 삭제
 
